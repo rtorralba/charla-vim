@@ -17,10 +17,4 @@ class Category extends Model
     {
         return $this->categories;
     }
-
-    public function getRows()
-    {
-        return $this->categories;
-    }
-    $file = '/home/raul/charlas/charla-vim/public/robots.txt'
 }
